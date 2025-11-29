@@ -6,6 +6,11 @@ Projet réalisé dans le cadre du challenge **Data Viz' 2025** de l'Università 
 
 **Auteurs** : Badre El Mourabit & Tiago Reis Lima
 
+🔗 **Site en ligne** : [https://dataviz-2025.vercel.app/](https://dataviz-2025.vercel.app/)
+
+🎬 **Vidéo de démo** :
+[https://www.youtube.com/watch?v=tAfsZ3W0inE](https://www.youtube.com/watch?v=tAfsZ3W0inE)
+
 ---
 
 ## Aperçu
